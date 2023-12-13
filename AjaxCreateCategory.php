@@ -3,8 +3,6 @@
 
 require 'dbconfig.php';
 
-
- 
 //echo json_encode($_FILES);
 //upload.php
 $file='';
